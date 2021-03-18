@@ -1,0 +1,14 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "Our goal is to make evaluation of teams score easier via website. It will help the AITU’s football players find out who won and all possible goal scoring options.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ainur, Aruzhan, Bek, Malika, Meruyert",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
